@@ -1,6 +1,6 @@
 # learn_flutter
 
-universal clock app
+WhatsApp link generator
 
 ## Getting Started
 
